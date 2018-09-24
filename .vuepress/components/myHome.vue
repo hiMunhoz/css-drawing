@@ -8,16 +8,16 @@
   export default {
     data() {
       return {
-        header: 'Vue Components TEST'
+        header: 'Uma breve história'
       }
     }
   }
 </script>
 
 <style lang="less">
-@import './style.less';
+  @import '../../style.less';
 
-h1 {
-  color: @color1;
-}
+  h1 {
+    color: @color1;
+  }
 </style>

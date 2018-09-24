@@ -8,7 +8,7 @@ module.exports = {
   themeConfig: {
     sidebar: [
       '/',
-      '/whatis/',
+      '/drawings/',
       ['/about/', 'Quem mantêm o site']
     ]
   }
