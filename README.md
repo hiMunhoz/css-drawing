@@ -1,1 +1,1 @@
-<myHome></myHome>
+<my-Home></my-Home>
