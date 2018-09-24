@@ -6,6 +6,11 @@ module.exports = {
     ['link', { rel: 'icon', href: 'https://res.cloudinary.com/marcelo-munhoz/v1527879459/static/images/favicon.png' }]
   ],
   themeConfig: {
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Exemplos', link: '/drawings/' },
+      { text: 'Sobre', link: '/about/' }
+    ],
     sidebar: [
       '/',
       '/drawings/',

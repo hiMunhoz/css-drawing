@@ -1,5 +1,7 @@
 ---
-title: 'Item 2'
+title: 'Sobre'
+prev: false
+next: false
 ---
 
-# Item 02
+# Quem mantêm o site
