@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'Hey Munhoz',
-  description: 'Just play around',
+  title: 'CSS drawing',
+  description: 'How to get a beatiful draw with pure HTML and CSS',
   themeConfig: {
     sidebar: [
       '/',
-      '/guides/',
-      ['/item-2/', 'Item 2']
+      '/whatis/',
+      ['/about/', 'Quem mantêm o site']
     ]
   }
 };
