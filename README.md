@@ -3,4 +3,13 @@ title: 'Home'
 prev: false
 next: false
 ---
-<my-Home></my-Home>
+
+# Uma breve história
+
+<style scoped lang="less">
+  @import './style.less';
+
+  h1 {
+    color: @color1;
+  }
+</style>
